@@ -1,2 +1,2 @@
 console.log("123")
-console.log("git config --global color.ui auto")
+console.log("Let's check the colors")
